@@ -1,0 +1,45 @@
+body {
+ text-align: center;
+ margin:0px;
+}
+p{
+    font-size: 18px;
+    line-height: 1.5;
+}
+img {
+    width:360px;
+    height: 190px;
+    margin-right: 20px;
+    border: 3px soild blueviolet;
+    border-radius:15px;
+    padding: 4px;
+    box-shadow:0 0 10px blanchedalmond
+}
+.header{
+    background-color: darkmagenta;
+    padding: 10px;
+
+}
+.team{
+    background-color:antiquewhite;
+    padding: 10px;
+}
+.clients{
+    background-color: plum;
+    padding:10px;
+}
+.development{
+    background-color:aquamarine;
+    padding: 10px;
+}
+.footer{
+    background-color:darkgray;
+    padding: 10px;
+    color:antiquewhite;
+}
+.software{
+    color:brown;
+}
+.soultions{
+    color:beige;
+}
